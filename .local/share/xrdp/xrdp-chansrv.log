@@ -1,1 +1,4 @@
-[20201212-16:47:42] [CORE ] main: app started pid 3631(0x00000e2f)
+[20201213-23:21:44] [CORE ] main: app started pid 3738(0x00000e9a)
+[20201213-23:27:32] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20201213-23:27:36] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20201213-23:27:42] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT

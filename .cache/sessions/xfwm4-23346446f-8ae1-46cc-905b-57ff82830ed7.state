@@ -1,0 +1,24 @@
+[CLIENT] 0x240007e
+  [CLIENT_LEADER] 0x2400001
+  [RES_NAME] wrapper-1.0
+  [RES_CLASS] Wrapper-1.0
+  [WM_NAME] Shut Down
+  [WM_COMMAND] (1) "wrapper-1.0"
+  [GEOMETRY] (641,390,422,130)
+  [GEOMETRY-MAXIMIZED] (641,390,422,130)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x8000
+[CLIENT] 0x28011f4
+  [CLIENT_ID] 29ed4e688-9418-44b4-abe7-dd08e684afd4
+  [CLIENT_LEADER] 0x2800001
+  [WINDOW_ROLE] xfce4-terminal-1607810588--719357515
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - forestbordersng@forestbordersng: ~/compose-test
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (883,375,818,483)
+  [GEOMETRY-MAXIMIZED] (883,375,818,483)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10080

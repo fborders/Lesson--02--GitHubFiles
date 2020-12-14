@@ -8,8 +8,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq!
 :q!
+:wq!
 
 # Search String History (newest to oldest):
 
@@ -20,15 +20,28 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	406
+<ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDXBlacaaBrotjbnuNwbp38A1Rr/KzOIbTenhjhevhYFbdV4ZIdRV3Xu8S/zYIwr5ThMK1Dg+5Uq0B4YAh8wlteBXAuWX9ekO7AQ5okQ4y+Xv5ttOgqC8Gfq1gAwffgb+S4v2Flk80QeSbVZ6tlD2v1me6QdRrNfVvVDhXIOeaHSbPnvmVC5swJ28cu+ACdinrBXDgmyglkswqVkOhDFYRbCAFmWAVmznb/3mAYdcb10yo1MkgfwGgtlVJoLnXnXnNtEso7je57nxvF97ihtjVtihViGZl1cq0YTeD4ZEQAc3VTTuEzSPJz94rqO7wCatyJX7Ln5hv5Gh+GU2wzRU+X forest.borders@ngc.com
+"2	LINE	0
+	406
+<ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDXBlacaaBrotjbnuNwbp38A1Rr/KzOIbTenhjhevhYFbdV4ZIdRV3Xu8S/zYIwr5ThMK1Dg+5Uq0B4YAh8wlteBXAuWX9ekO7AQ5okQ4y+Xv5ttOgqC8Gfq1gAwffgb+S4v2Flk80QeSbVZ6tlD2v1me6QdRrNfVvVDhXIOeaHSbPnvmVC5swJ28cu+ACdinrBXDgmyglkswqVkOhDFYRbCAFmWAVmznb/3mAYdcb10yo1MkgfwGgtlVJoLnXnXnNtEso7je57nxvF97ihtjVtihViGZl1cq0YTeD4ZEQAc3VTTuEzSPJz94rqO7wCatyJX7Ln5hv5Gh+GU2wzRU+X forest.borders@ngc.com
 
 # File marks:
-'0  4  0  ~/index.js
-'1  12  0  ~/index.html
-'2  1  0  ~/C_Program.c
-'3  3  0  ~/HelloJava.java
-'4  5  16  ~/C_Program.c
+'0  1  0  ~/.ssh/id_rsa.pub
+'1  1  49  ~/.ssh/id_rsa.pub.pub
+'2  7  0  ~/Docker/MyDockerImages/Dockerfile
+'3  4  0  ~/index.js
+'4  12  0  ~/index.html
+'5  1  0  ~/C_Program.c
+'6  3  0  ~/HelloJava.java
+'7  5  16  ~/C_Program.c
 
 # Jumplist (newest first):
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  1  49  ~/.ssh/id_rsa.pub.pub
+-'  7  0  ~/Docker/MyDockerImages/Dockerfile
+-'  1  0  ~/Docker/MyDockerImages/Dockerfile
 -'  4  0  ~/index.js
 -'  1  0  ~/index.js
 -'  12  0  ~/index.html
@@ -59,8 +72,89 @@
 -'  5  16  ~/C_Program.c
 -'  3  0  ~/HelloJava.java
 -'  1  0  ~/HelloJava.java
+-'  4  0  ~/index.js
+-'  1  0  ~/index.js
+-'  12  0  ~/index.html
+-'  1  0  ~/index.html
+-'  1  0  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  5  16  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  1  0  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  5  16  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  12  0  ~/index.html
+-'  1  0  ~/index.html
+-'  1  0  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  5  16  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  1  0  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  5  16  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  4  0  ~/index.js
+-'  1  0  ~/index.js
+-'  12  0  ~/index.html
+-'  1  0  ~/index.html
+-'  1  0  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  5  16  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  1  0  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  5  16  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  12  0  ~/index.html
+-'  1  0  ~/index.html
+-'  1  0  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  5  16  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  1  0  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  5  16  ~/C_Program.c
+-'  3  0  ~/HelloJava.java
+-'  1  0  ~/HelloJava.java
+-'  4  0  ~/index.js
+-'  1  0  ~/index.js
+-'  1  49  ~/.ssh/id_rsa.pub.pub
 
 # History of marks within files (newest to oldest):
+
+> ~/.ssh/id_rsa.pub
+	"	1	0
+
+> ~/.ssh/id_rsa.pub.pub
+	"	1	49
+	^	1	50
+	.	1	0
+	+	1	0
+
+> ~/Docker/MyDockerImages/Dockerfile
+	"	7	0
+	^	7	0
+	.	8	0
+	+	7	0
+	+	3	0
+	+	5	0
+	+	8	0
 
 > ~/index.js
 	"	4	0
