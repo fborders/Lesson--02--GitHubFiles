@@ -30852,3 +30852,8 @@ Release Date: 2017-03-02
 [  6632.721] rdpDeferredUpdateCallback: reschedule rect_id 19307 rect_id_ack 19306
 [  6660.876] rdpDeferredUpdateCallback: reschedule rect_id 19319 rect_id_ack 19318
 [  6677.496] rdpDeferredUpdateCallback: reschedule rect_id 19357 rect_id_ack 19356
+[  6822.741] rdpDeferredUpdateCallback: reschedule rect_id 19472 rect_id_ack 19471
+[  6823.264] rdpDeferredUpdateCallback: reschedule rect_id 19480 rect_id_ack 19479
+[  6826.513] rdpDeferredUpdateCallback: reschedule rect_id 19511 rect_id_ack 19510
+[  6832.739] rdpDeferredUpdateCallback: reschedule rect_id 19556 rect_id_ack 19555
+[  6839.372] rdpDeferredUpdateCallback: reschedule rect_id 19590 rect_id_ack 19589
